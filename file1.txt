@@ -1,7 +1,3 @@
 Hello world for push
 Update kr ha work krlena pls
-<<<<<<< HEAD
 
-=======
-changed on remotw
->>>>>>> refs/remotes/origin/main
